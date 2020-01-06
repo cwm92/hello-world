@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+
+------------------------
+README
+------------------------
+name : choi woomin
+age : 28
+job : web programmer
+------------------------
